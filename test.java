@@ -6,3 +6,8 @@ class
 		System.out.println("Hello World!");
 	}
 }
+
+public void mainStrat(){
+	int a;
+
+}
